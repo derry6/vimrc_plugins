@@ -1,4 +1,4 @@
-#vimrc_plugins
+# vimrc_plugins
 > VIM 基本配置文件
 
 ## 添加plugin
